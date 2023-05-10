@@ -1,7 +1,7 @@
 {
   "firmware": {
     "version": "1.0.1",
-    "url": "https://github.com/yourusername/esp8266_updates/raw/main/firmware.bin"
+    "url": "https://github.com/Arts1o/FlowerMechanicsUpdates/blob/202823c6a8950dfc6d50d3dce124ce3fc46f378b/Firmware/sketch_may10b.ino.d1_mini.bin"
   },
   "filesystem": {
     "version": "1.0.0",
