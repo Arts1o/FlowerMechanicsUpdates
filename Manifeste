@@ -1,0 +1,10 @@
+{
+  "firmware": {
+    "version": "1.0.1",
+    "url": "https://github.com/yourusername/esp8266_updates/raw/main/firmware.bin"
+  },
+  "filesystem": {
+    "version": "1.0.0",
+    "url": "https://github.com/yourusername/esp8266_updates/raw/main/filesystem.bin"
+  }
+}
